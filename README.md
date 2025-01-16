@@ -2,7 +2,7 @@
 
 Controlador para o Inversor de Frequencia WEG CFW100 v4.21
 
-### Configuração
+## Configuração
 
 | Parâmetro | Valor | Comentário                                                  |
 | --------- | ----- | ----------------------------------------------------------- |
@@ -27,10 +27,39 @@ Controlador para o Inversor de Frequencia WEG CFW100 v4.21
 | P265      | 14    | Define a porta D3 como função de mudança de Rampa           |
 | P266      | 3     | Define a porta D4 como função de Parada Rápida (Emergência) |
 
-### Diagram
+## Diagrama
 
 <p align="center">
-  <img src="Docs/WegControllerDiagram.png" alt="Diagram">
+  <img src="Docs/WegControllerDiagram.png" alt="Diagrama">
 </p>
 
-- Excalidraw file: [WegControllerDiagram.excalidraw](Docs/WegControllerDiagram.excalidraw)
+- Excalidraw: [WegControllerDiagram.excalidraw](Docs/WegControllerDiagram.excalidraw)
+
+## Fotos
+
+### Fonte de Alimentação
+
+<p align="center">
+  <img src="Docs/Photos/PowerSupply.jpg" alt="Fonte de Alimentação">
+</p>
+
+### PCB
+
+<p align="center">
+  <img src="Docs/Photos/PCB_Front.jpg" alt="PCB Frente">
+</p>
+<p align="center">
+  <img src="Docs/Photos/PCB_Back.jpg" alt="PCB Verso">
+</p>
+
+### Montagem
+
+<p align="center">
+  <img src="Docs/Photos/Mounted_PCB.jpg" alt="Montagem da PCB">
+</p>
+<p align="center">
+  <img src="Docs/Photos/Mounted_Front.jpg" alt="Montagem do Painel Frontal">
+</p>
+<p align="center">
+  <img src="Docs/Photos/Mounted_All.jpg" alt="Montagem completa">
+</p>
