@@ -32,3 +32,5 @@ Controlador para o Inversor de Frequencia WEG CFW100 v4.21
 <p align="center">
   <img src="Docs/WegControllerDiagram.png" alt="Diagram">
 </p>
+
+- Excalidraw file: [WegControllerDiagram.excalidraw](Docs/WegControllerDiagram.excalidraw)
