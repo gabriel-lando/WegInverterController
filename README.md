@@ -30,7 +30,7 @@ Controlador para o Inversor de Frequencia WEG CFW100 v4.21
 ## Diagrama
 
 <p align="center">
-  <img src="Docs/WegControllerDiagram.png" alt="Diagrama">
+  <img src="Docs/WegControllerDiagram.png" alt="Diagrama" width="75%">
 </p>
 
 - Excalidraw: [WegControllerDiagram.excalidraw](Docs/WegControllerDiagram.excalidraw)
@@ -40,26 +40,36 @@ Controlador para o Inversor de Frequencia WEG CFW100 v4.21
 ### Fonte de Alimentação
 
 <p align="center">
-  <img src="Docs/Photos/PowerSupply.jpg" alt="Fonte de Alimentação">
+  <img src="Docs/Photos/PowerSupply.jpg" alt="Fonte de Alimentação" width="50%">
 </p>
 
 ### PCB
 
-<p align="center">
-  <img src="Docs/Photos/PCB_Front.jpg" alt="PCB Frente">
-</p>
-<p align="center">
-  <img src="Docs/Photos/PCB_Back.jpg" alt="PCB Verso">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="Docs/Photos/PCB_Front.jpg" alt="PCB Frente">
+    </td>
+    <td align="center">
+      <img src="Docs/Photos/PCB_Back.jpg" alt="PCB Verso">
+    </td>
+  </tr>
+</table>
 
 ### Montagem
 
-<p align="center">
-  <img src="Docs/Photos/Mounted_PCB.jpg" alt="Montagem da PCB">
-</p>
-<p align="center">
-  <img src="Docs/Photos/Mounted_Front.jpg" alt="Montagem do Painel Frontal">
-</p>
-<p align="center">
-  <img src="Docs/Photos/Mounted_All.jpg" alt="Montagem completa">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="Docs/Photos/Mounted_PCB.jpg" alt="Montagem da PCB">
+    </td>
+    <td align="center">
+      <img src="Docs/Photos/Mounted_All.jpg" alt="Montagem completa">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="Docs/Photos/Mounted_Front.jpg" alt="Montagem do Painel Frontal" width="80%">
+    </td>
+  </tr>
+</table>
