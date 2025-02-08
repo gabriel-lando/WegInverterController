@@ -16,9 +16,9 @@ Controlador para o Inversor de Frequencia WEG CFW100 v4.21
 | P133      | 3.0   | Frequência mínima do motor                                  |
 | P134      | 35.0  | Frequência máxima do motor                                  |
 | P136      | 5.0   | Boost de torque manual                                      |
-| P142      | 100.0 | Tensão maxima de saída (para modo V/f quadrático)           |
-| P145      | 35.0  | Frequência máxima de saída (para modo V/f quadrático)       |
-| P202      | 1     | Muda o modo do inversor para V/f quadrático                 |
+| P142      | 100.0 | Tensão maxima de saída                                      |
+| P145      | 35.0  | Frequência máxima de saída                                  |
+| P202      | 0     | Modo do inversor V/f escalar                                |
 | P220      | 4     | Define a seleção de fonte para as portas digitais           |
 | P223      | 4     | Define a seleção de giro para as portas digitais            |
 | P224      | 1     | Define a seleção de gira/para para as portas digitais       |
